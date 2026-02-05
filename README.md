@@ -1,4 +1,3 @@
 # Global-riverine-nutrients_data
 
-This repository contains the code supporting our study on global riverine nutrient dynamics. 
-It provides a complete workflow for simulating the global distribution and transport of Total Nitrogen and Total Phosphorus.
+This repository provides the complete computational workflow for simulating Annual Total Nitrogen and Total Phosphorus  dynamics across major global catchments from 1990 to 2023.
